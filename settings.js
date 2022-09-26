@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Denara Bot" //namabot kalian
-global.ownername= "DENARA" //nama kalian
+global.botname = "Nanat-BOTZ" //namabot kalian
+global.ownername= "Nanat store" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/DenaraBot" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
 global.myweb2 = "https://linki.ee/denarabot" //bebas
-global.email = "denarabot1@gmail.com" //bebas
+global.email = "nanadkawai98@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285727492435'] //premium user
-global.owner = ["6285727492435","6281215626270"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285727492435" // nomor wa kalian
-global.ownernomerr = "+6285727492435" //nmr wa kalian
+global.premium = ['6281617247994'] //premium user
+global.owner = ["6281617247994","6281649370524"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281617247994" // nomor wa kalian
+global.ownernomerr = "+6281617247994" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Denara Bot' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Nanat-BOTZ' //sticker wm ubah
+global.author = 'Di Buat Oleh Nanat' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
