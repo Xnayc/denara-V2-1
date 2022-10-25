@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Nanat-BOTZ" //namabot kalian
-global.ownername= "Nanat store" //nama kalian
+global.botname = "natccy bot" //namabot kalian
+global.ownername= "Nanat" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
 global.myweb2 = "https://linki.ee/denarabot" //bebas
@@ -35,16 +35,16 @@ global.email = "nanadkawai98@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281617247994'] //premium user
-global.owner = ["6281617247994","6281649370524"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281617247994","6281617247994"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281617247994" // nomor wa kalian
 global.ownernomerr = "+6281617247994" //nmr wa kalian
 global.thumbnail = "./image/😫😫.jpeg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/1664214718533.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Nanat-BOTZ' //sticker wm ubah
+global.packname = '© natccy //sticker wm ubah
 global.author = 'Di Buat Oleh Nanat' //sticker wm ganti nama kalian
-global.sessionName = 'session'
+global.sessionName = 'session.json'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
